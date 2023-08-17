@@ -55,7 +55,7 @@
       },
       "NAME_BOT": {
         "description": "حط اسم البوت ب العربي زي ارنوب .",
-        "value": "ارنوب",
+        "value": "افاتار",
         "required": true
       },
       "OWNER": {
